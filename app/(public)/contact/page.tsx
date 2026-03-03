@@ -4,7 +4,7 @@ import ContactContent from "./ContactContent";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Request a medical transport quote, schedule a non-emergency transport, or ask about hospital partnership opportunities. Available 24/7 at (956) 555-0911.",
+    "Request a medical transport quote, schedule a non-emergency transport, or ask about hospital partnership opportunities. Available 24/7 at (956) 723-5421.",
   keywords: [
     "contact Laredo EMS",
     "schedule medical transport Laredo",

@@ -120,8 +120,8 @@ export default function CoveragePage() {
             transport options if we don&apos;t have direct coverage.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+19565550911" className="px-7 py-3 bg-[#E63946] text-white font-bold rounded-lg hover:bg-[#cc2d39] transition-colors">
-              Call (956) 555-0911
+            <a href="tel:+19567235421" className="px-7 py-3 bg-[#E63946] text-white font-bold rounded-lg hover:bg-[#cc2d39] transition-colors">
+              Call (956) 723-5421
             </a>
             <Link href="/contact" className="px-7 py-3 bg-white/10 border border-white/30 text-white font-semibold rounded-lg hover:bg-white/20 transition-colors">
               Send a Message

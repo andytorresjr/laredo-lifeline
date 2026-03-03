@@ -61,13 +61,13 @@ export default function HomePage() {
               Request Transport
             </Link>
             <a
-              href="tel:+19565550911"
+              href="tel:+19567235421"
               className="inline-flex items-center gap-2 px-8 py-4 rounded-lg bg-[#E63946] text-white font-semibold text-lg hover:bg-[#c0303c] transition-all duration-200 shadow-lg"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
               </svg>
-              Call Now (956) 555-0911
+              Call Now (956) 723-5421
             </a>
           </div>
         </div>
@@ -234,8 +234,8 @@ export default function HomePage() {
           <p className="text-white/80 text-lg mb-8">
             Our dispatch team is standing by around the clock. Call us directly or submit a transport request online.
           </p>
-          <a href="tel:+19565550911" className="block text-5xl sm:text-6xl font-extrabold text-white hover:text-white/80 transition-colors mb-10 tracking-tight">
-            (956) 555-0911
+          <a href="tel:+19567235421" className="block text-5xl sm:text-6xl font-extrabold text-white hover:text-white/80 transition-colors mb-10 tracking-tight">
+            (956) 723-5421
           </a>
           <Link
             href="/contact"

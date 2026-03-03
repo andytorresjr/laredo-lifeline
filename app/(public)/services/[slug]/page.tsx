@@ -213,10 +213,10 @@ export default async function ServiceDetailPage({
             Request This Service
           </Link>
           <a
-            href="tel:+19565550911"
+            href="tel:+19567235421"
             className="px-8 py-3 bg-white/10 border border-white/30 text-white font-bold rounded-lg hover:bg-white/20 transition-colors"
           >
-            Call (956) 555-0911
+            Call (956) 723-5421
           </a>
         </div>
       </section>

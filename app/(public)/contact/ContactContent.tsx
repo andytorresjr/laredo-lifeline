@@ -10,7 +10,7 @@ const faqs = [
   },
   {
     q: "How do I schedule a non-emergency transport?",
-    a: "Call our dispatch line at (956) 555-0911 or fill out the contact form on this page. We recommend scheduling at least 24-48 hours in advance, though we do accommodate same-day requests based on availability.",
+    a: "Call our dispatch line at (956) 723-5421 or fill out the contact form on this page. We recommend scheduling at least 24-48 hours in advance, though we do accommodate same-day requests based on availability.",
   },
   {
     q: "Do you accept insurance for non-emergency transport?",
@@ -106,7 +106,7 @@ export default function ContactContent() {
                       type="tel"
                       value={form.phone}
                       onChange={handleChange}
-                      placeholder="(956) 555-0000"
+                      placeholder="(956) 723-5421"
                       className="w-full px-4 py-2.5 border border-slate-300 rounded-lg text-slate-800 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-[#1B4F8A] text-sm"
                     />
                   </div>
@@ -175,7 +175,7 @@ export default function ContactContent() {
                     <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" />
                   </svg>
                   <div>
-                    <a href="tel:+19565550911" className="text-white font-bold text-lg block hover:text-blue-200">(956) 555-0911</a>
+                    <a href="tel:+19567235421" className="text-white font-bold text-lg block hover:text-blue-200">(956) 723-5421</a>
                     <span className="text-blue-300 text-xs">Emergency / Dispatch Line</span>
                   </div>
                 </li>
