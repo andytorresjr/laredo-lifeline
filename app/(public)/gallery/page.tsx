@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import GalleryContent from "./GalleryContent";
 
 export const metadata: Metadata = {
-  title: "Photo Gallery | Laredo Lifeline EMS",
+  title: "Photo Gallery",
   description:
     "See Laredo Lifeline EMS in action — browse photos of our fleet, paramedic crew training, event standby coverage, and community outreach across Webb County.",
   keywords: [

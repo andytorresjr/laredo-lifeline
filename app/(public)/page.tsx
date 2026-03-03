@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Laredo Lifeline EMS | Emergency & Medical Transport Services",
+  title: {
+    absolute: "Laredo Lifeline EMS | Emergency & Medical Transport Services",
+  },
   description:
     "Laredo's trusted emergency and non-emergency medical transport provider. Available 24/7 for emergency 911 response, NEMT, event standby EMS, and inter-facility transport across Webb County.",
   keywords: [
